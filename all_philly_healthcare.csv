@@ -1,0 +1,24 @@
+Region,Median Income,Mortality Rate,Disability Rate,Mental Health Rate,Obesity Rate,Diabetes Rate
+Center City,83489,631.2,9.9,13.1,22.8,7.1
+Northwest Philadelphia ,69467,930.7,14,15.9,29.8,11.4
+South Philadelphia,62342,797.5,14.2,16.4,27.7,8.9
+Far Northeast Philadelphia,60277,1082.1,15.3,15.1,25.9,10.4
+Lower Northeast Philadelphia,49762,834.6,14.6,18.5,29.8,11.3
+River Wards,46045,772.9,21.4,21.6,34.8,13
+Far North Philadelphia,40565,859.7,18.2,18.8,36.7,16.1
+Southwest Philadelphia,38674,955.8,16.5,19.9,37.9,16.4
+West Philadelphia,36186,862.2,16.2,19.9,34.5,14.5
+North Philadelphia,24091,1079,22.7,23,40,18.1
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+Colors:,,,,,,
+"Background- rgb(32,48,96)","rgb(125,194, 78)","rgb(0, 0, 0)","rgb(181,112,181)","rgb(84,171,188)","rgb(252,178,56)","rgb(231, 133, 135)"
+,,,,,,
+,,,,,,
+North Philadelphia East,26780,900.2,25.2,22.8,39.3,17.9
+North Philadelphia West,21401,1257.8,20.3,23.2,40.6,18.2
+South Philadelphia East,66760,758.3,13.1,16.2,25.6,9.7
+South Philadelphia West,57923,836.7,15.2,16.9,29.9,12
