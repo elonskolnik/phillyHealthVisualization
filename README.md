@@ -1,0 +1,3 @@
+# phillyHealthVisualization
+Healthcare Data Visualization of the City of Philadelphia
+Using the official City of Philadelphia color scheme, I created this data visualization map from a citywide public health assessment. This interactive visualization answers the research question: "what is the relationship between income and health?" by pitting median income against five key health factors in the neighborhoods of Philadelphia. One can see that nearly linearly, as income increases, health problems increase. Users can move their mouse around the screen to see a popup of the key data in each neighborhood. 
